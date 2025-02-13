@@ -8,11 +8,9 @@ sudo su odoo18
 ```
 cd /opt/odoo18
 ```
+```
 source odoo-venv/bin/activate
 ````
-```
-cd /opt/odoo18
-```
 ### Step #17: Run odoo "/opt/odoo18/odoo"
 ```
 cd /opt/odoo18/odoo
