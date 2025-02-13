@@ -6,6 +6,8 @@ how to active and run odoo
 sudo su odoo18
 ```
 ```
+cd /opt/odoo18
+```
 source odoo-venv/bin/activate
 ````
 ```
